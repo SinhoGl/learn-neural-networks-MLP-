@@ -194,7 +194,7 @@ treinar(X, y, epocas=1000, verbose=True)
 - Apenas gradient descent básico (sem momentum, Adam, etc.)
 - Sem GPU acceleration
 
-## 🛣️ Roadmap Futuro
+## Roadmap Futuro
 
 ### Próximas Implementações
 - [ ] **Visualizações**: Fronteiras de decisão e evolução do aprendizado
@@ -214,9 +214,9 @@ treinar(X, y, epocas=1000, verbose=True)
 - [ ] **Datasets Reais**: Exemplos com dados do mundo real
 - [ ] **Performance**: Otimizações com Numba/Cython
 
-## 🤝 Como Contribuir
+##  Como Contribuir
 
-### Contribuições são muito bem-vindas! 🎉
+### Contribuições são muito bem-vindas! 
 
 1. **Fork** este repositório
 2. **Clone** seu fork: `git clone https://github.com/seu-usuario/neural-networks.git`
@@ -227,30 +227,13 @@ treinar(X, y, epocas=1000, verbose=True)
 7. **Abra um Pull Request**
 
 ### Tipos de Contribuição
-- 🐛 **Bug fixes**
-- ✨ **Novas funcionalidades**
-- 📚 **Documentação**
-- 🎨 **Melhorias de código**
-- 🧪 **Testes**
-- 💡 **Exemplos e tutoriais**
+-  **Bug fixes**
+-  **Novas funcionalidades**
+-  **Documentação**
+-  **Melhorias de código**
+-  **Testes**
+-  **Exemplos e tutoriais**
 
-## 📄 Licença
+## Licença
 
 Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-## 🙏 Agradecimentos
-
-- **NumPy**: Por tornar computação científica acessível
-- **Matplotlib**: Por visualizações incríveis
-- **Scikit-learn**: Por datasets e inspiração
-- **Comunidade Python**: Por todo o conhecimento compartilhado
-
-## 📞 Contato
-
-Tem dúvidas ou sugestões? Abra uma **Issue** ou entre em contato!
-
----
-
-### ⭐ Se este projeto te ajudou, considere dar uma estrela!
-
-**Nota**: Esta implementação foi criada para fins educacionais. Para projetos reais, recomenda-se usar frameworks como TensorFlow, PyTorch ou scikit-learn.
